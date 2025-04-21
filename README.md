@@ -103,5 +103,5 @@ Early detection of lung cancer is vital to increase survival rates. This project
 
 ---
 ### *🧑‍💻 Author*
-👤 *Srisanjana Karunamoorthy*  
-🔗 GitHub: [srisanjana0711](https://github.com/srisanjana0711
+👤 *Roshaan JS*  
+🔗 GitHub: [RoshaanJs](https://github.com/RoshaanJs)
